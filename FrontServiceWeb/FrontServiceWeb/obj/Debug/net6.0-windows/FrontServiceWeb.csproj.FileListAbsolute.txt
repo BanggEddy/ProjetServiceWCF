@@ -1,0 +1,17 @@
+C:\SIO2\WCF\FrontServiceWeb\FrontServiceWeb\bin\Debug\net6.0-windows\FrontServiceWeb.exe
+C:\SIO2\WCF\FrontServiceWeb\FrontServiceWeb\bin\Debug\net6.0-windows\FrontServiceWeb.deps.json
+C:\SIO2\WCF\FrontServiceWeb\FrontServiceWeb\bin\Debug\net6.0-windows\FrontServiceWeb.runtimeconfig.json
+C:\SIO2\WCF\FrontServiceWeb\FrontServiceWeb\bin\Debug\net6.0-windows\FrontServiceWeb.dll
+C:\SIO2\WCF\FrontServiceWeb\FrontServiceWeb\bin\Debug\net6.0-windows\FrontServiceWeb.pdb
+C:\SIO2\WCF\FrontServiceWeb\FrontServiceWeb\obj\Debug\net6.0-windows\FrontServiceWeb.csproj.AssemblyReference.cache
+C:\SIO2\WCF\FrontServiceWeb\FrontServiceWeb\obj\Debug\net6.0-windows\FrontServiceWeb.Form1.resources
+C:\SIO2\WCF\FrontServiceWeb\FrontServiceWeb\obj\Debug\net6.0-windows\FrontServiceWeb.csproj.GenerateResource.cache
+C:\SIO2\WCF\FrontServiceWeb\FrontServiceWeb\obj\Debug\net6.0-windows\FrontServiceWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\SIO2\WCF\FrontServiceWeb\FrontServiceWeb\obj\Debug\net6.0-windows\FrontServiceWeb.AssemblyInfoInputs.cache
+C:\SIO2\WCF\FrontServiceWeb\FrontServiceWeb\obj\Debug\net6.0-windows\FrontServiceWeb.AssemblyInfo.cs
+C:\SIO2\WCF\FrontServiceWeb\FrontServiceWeb\obj\Debug\net6.0-windows\FrontServiceWeb.csproj.CoreCompileInputs.cache
+C:\SIO2\WCF\FrontServiceWeb\FrontServiceWeb\obj\Debug\net6.0-windows\FrontServiceWeb.dll
+C:\SIO2\WCF\FrontServiceWeb\FrontServiceWeb\obj\Debug\net6.0-windows\refint\FrontServiceWeb.dll
+C:\SIO2\WCF\FrontServiceWeb\FrontServiceWeb\obj\Debug\net6.0-windows\FrontServiceWeb.pdb
+C:\SIO2\WCF\FrontServiceWeb\FrontServiceWeb\obj\Debug\net6.0-windows\FrontServiceWeb.genruntimeconfig.cache
+C:\SIO2\WCF\FrontServiceWeb\FrontServiceWeb\obj\Debug\net6.0-windows\ref\FrontServiceWeb.dll
